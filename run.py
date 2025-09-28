@@ -1,3 +1,6 @@
+# Copyright (c) 2025 Waleed Esmail
+# Licensed under the MIT License. See LICENSE file in the project root for details.
+
 # hep_agent.py
 # A minimal LangChain agent for HEP EDA + simple binary classification.
 # Tools available to the agent inside the Python REPL: uproot, awkward, vector,
